@@ -2,6 +2,9 @@
 # Overview
 This code is designed to shortlist candidates based on their resumes. It uses a graphical user interface (GUI) built with Tkinter to input criteria and select a folder containing resumes. The code then checks each resume against the entered criteria and copies shortlisted resumes to a new "Shortlisted" folder.
 
+![image](https://github.com/user-attachments/assets/f6180465-0472-4e4f-9a58-2315bea8a756)
+
+
 # Code Structure
 The code is divided into several sections:
 
